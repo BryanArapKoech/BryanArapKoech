@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BryanArapKoech
-- 👀 I’m specializing in Data science, IoT and Machine Learning
+- 👀 I’m specializing in Data science, IoT and Machine Learning/DeepLearning
 - 💞️ I’m looking to collaborate on data science IoT and machine learning projects
 - ⚡ Fun fact: Learning coding has cognitive-related benefits such as problem-solving, analytical thinking, creative thinking, leadership related skills, and teamwork.
 - 💪 Kaizen
