@@ -1,7 +1,5 @@
-- 👋 BryanArapKoech
-- 👀 I love training neural nets.
-- bryankibet77@gmail.com
-- @BBryankibet
+I love training neural nets.
+
 
 <!---
 BryanArapKoech/BryanArapKoech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
