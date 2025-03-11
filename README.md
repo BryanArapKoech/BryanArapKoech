@@ -1,4 +1,4 @@
-I love training neural nets.
+I love coding and building stuff.
 
 
 <!---
